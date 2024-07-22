@@ -8,4 +8,4 @@ I began deploying Helium coverage in 2019 and have been an active member of this
 
 ## Voting Philosophy
 
-Taking a thoughful and collaborative approach to designing our reward structures so they align with the needs of the network, and iterating to make those appraches continue to work as the network evolves. In the end, the health, growth, and sustainability of the network always comes first. 
+Taking a thoughful and collaborative approach to designing our reward structures so they align with the needs of the network, and iterating to make those approaches continue to work as the network evolves. In the end, the health, growth, and sustainability of the network always comes first. 
