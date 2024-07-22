@@ -21,6 +21,6 @@
     "image": "./proxies/jaym2518/image.png",
     "description": "Jay M.",
     "detail": "./proxies/jaym2518/detail.md",
-    "networks": ["HNT", "MOBILE", "IOT"]
+    "networks": ["HNT", "MOBILE"]
   }
 ]
