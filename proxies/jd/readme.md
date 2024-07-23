@@ -1,6 +1,6 @@
 # JD
 
-I'm thankful for your consideration. I go by JD (cryptojd) on Discord and JD (https://x.com/0x41nullbody) on X.
+I'm thankful for your consideration. I go by JD (cryptojd) on Discord and JD [on X](https://x.com/0x41nullbody).
 
 # Experience
 
