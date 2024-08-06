@@ -31,4 +31,12 @@
     "detail": "./proxies/jd/detail.md",
     "networks": ["HNT", "MOBILE"]
   }
+  {
+    "wallet": "exmrL4U6vk6VFoh3Q7fkrPbjpNLHPYFf1J8bqGypuiK",
+    "name": "Yourname1",
+    "image": "./proxies/yourname/ryobi1.PNG",
+    "description": "Yourname2",
+    "detail": "./proxies/yourname/detail.md",
+    "networks": ["HNT", "MOBILE", "IOT"]
+  }
 ]
