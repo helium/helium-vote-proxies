@@ -33,18 +33,26 @@
   },
     {
     "wallet": "5UgjWg285kvufDMaMK33jEYhEG4vACp2z4j1yutdm65P",
-    "name": “Lnjenkins”,
+    "name": "Lnjenkins",
     "image": "./proxies/Lnjenkins/image.png",
-    "description": “LF5G.”,
+    "description": "LF5G.",
     "detail": "./proxies/Lnjenkins/detail.md",
     "networks": ["MOBILE"]
   },
-   {
+  {
+    "wallet": "5MXQLMxjUQFyZWk2Kpe5GdhsjBnQoLypjpcTTyeUXEtd",
+    "name": "AndrewsMD",
+    "image": "./proxies/AndrewsMD/image.png",
+    "description": "AndrewsMD",
+    "detail": "./proxies/AndrewsMD/detail.md",
+    "networks": ["HNT", "IOT", "MOBILE"]
+  },
+  {
     "wallet": "CSSFGF69WQzHdRd2u1hZ2vKf54yzZ5hxvJhnYSB8KXJh",
     "name": "workingtitle",
     "image": "./proxies/WorkingTitle/PNG_E65EC39C-DAB5-4C2A-A82F-0CF580297514.png",
     "description": "Global Expansion",
     "detail": "./proxies/WorkingTitle/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
-   }
+  }
 ]
