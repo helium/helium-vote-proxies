@@ -46,4 +46,5 @@
     "description": "Global Expansion",
     "detail": "./proxies/WorkingTitle/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
+   }
 ]
