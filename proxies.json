@@ -46,5 +46,13 @@
     "description": "Global Expansion",
     "detail": "./proxies/WorkingTitle/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
+  },
+  {
+    "wallet": "9DfBwcpMyAAyySPmkNwfmUhshYui4KJEkLS9EN8twv68",
+    "name": "Nova Labs",
+    "image": "./proxies/NovaLabs/image.png",
+    "description": "Nova Labs",
+    "detail": "./proxies/NovaLabs/detail.md",
+    "networks": ["HNT", "MOBILE", "IOT"]
   }
 ]
