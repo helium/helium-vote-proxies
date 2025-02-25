@@ -39,7 +39,7 @@ You can see examples of other proxies listed in [proxies.json](/proxies.json). T
 
 ```
 {
-  "wallet": "ex1iPHN3wCAUSwPrNENvxMW1w6ggZRQwYUmQwmAn646.json",
+  "wallet": "ex1iPHN3wCAUSwPrNENvxMW1w6ggZRQwYUmQwmAn646",
   "name": "Example Proxy",
   "image": "./proxies/example/image.png",
   "description": "Example proxy voter",
