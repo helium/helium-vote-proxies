@@ -1,7 +1,5 @@
 # What is a Voting Proxy?
 
-**Note: This is currently a work in progress based on a [proposal in Helium](https://github.com/helium/HIP/pull/925). Details are subject to change as discussion continues.
-
 A voting proxy is a wallet that can vote on behalf of other wallets. A voting wallet can choose to assign their votes to a given proxy.
 
 An example of this would be assigning your voting power to your friend who knows more about Helium. 
