@@ -74,9 +74,9 @@
   {
     "wallet": "CCUWF8sALfvVtv1EvKwuM4p7ZgUWvsrKVzQfFGmBz6pa",
     "name": "Keith Rettig (KeithR)",
-    "image": "./proxies/KeithRettig/Helium_proxy/image.png",
+    "image": "./proxies/KeithRettig/image.png",
     "description": "Keith Rettig",
-    "detail": "./proxies/KeithRettig/Helium_proxy/detail.md",
+    "detail": "./proxies/KeithRettig/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
   }
 ]
