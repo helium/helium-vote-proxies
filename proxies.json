@@ -46,6 +46,30 @@
     "description": "Global Expansion",
     "detail": "./proxies/WorkingTitle/detail.md",
     "networks": ["HNT", "MOBILE", "IOT"]
+  },
+  {
+    "wallet": "3dMfWtxjU67HTgKEubo5W7Y5PYBrpTdzLgmDCQb7gFJM",
+    "name": "danggo",
+    "image": "./proxies/danggo/image.png",
+    "description": "danggo",
+    "detail": "./proxies/danggo/detail.md",
+    "networks": ["HNT", "MOBILE", "IOT"]
+  },
+  {
+    "wallet": "GKunRFVcfMem7oS5Yd3WV1Tm48jZoCFME8fbMMdprWS4",
+    "name": "Bones",
+    "image": "./proxies/Bones/image.jpg",
+    "description": "Bones | wdriot.com",
+    "detail": "./proxies/Bones/detail.md",
+    "networks": ["HNT", "IOT"]
+  },
+  {
+    "wallet": "9DfBwcpMyAAyySPmkNwfmUhshYui4KJEkLS9EN8twv68",
+    "name": "Nova Labs",
+    "image": "./proxies/NovaLabs/image.png",
+    "description": "Nova Labs",
+    "detail": "./proxies/NovaLabs/detail.md",
+    "networks": ["HNT", "MOBILE", "IOT"]
   }
   {
     "wallet": "CCUWF8sALfvVtv1EvKwuM4p7ZgUWvsrKVzQfFGmBz6pa",
