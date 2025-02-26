@@ -8,8 +8,7 @@ In Helium since 2020 with a comprehensive understanding of the project and its t
 
 ## Voting Philosophy
 
-HRPs bundle several items and are put to vote as a package
-<br>_Goal: weighing each item w/o losing sight of the package to determine which vote decision will better serve the Helium Network_
+HRPs bundle several items and are put to vote as a package. I intend to weigh each item w/o losing sight of the package to determine which vote decision will better serve the Helium Network.
 
 Helium Network = IOT + MOBILE -> both compete for the HNT cake
 <br>_Goal: balancing the reasonable interests of both subnetworks in pursuit of determining what will serve the network as a whole_
