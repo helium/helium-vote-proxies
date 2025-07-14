@@ -15,14 +15,6 @@
     "detail": "./proxies/jaym2518/detail.md",
     "networks": ["HNT"]
   },
-  {
-    "wallet": "2vUjYrkqN1HBccbhfMQFW2E7pDynPbtbHKNgAJLdwdzT",
-    "name": "samgutentag",
-    "image": "./proxies/samgutentag/image.png",
-    "description": "Sam Gutentag",
-    "detail": "./proxies/samgutentag/detail.md",
-    "networks": ["HNT"]
-  },
     {
     "wallet": "5UgjWg285kvufDMaMK33jEYhEG4vACp2z4j1yutdm65P",
     "name": "Lnjenkins",
